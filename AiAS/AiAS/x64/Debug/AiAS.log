@@ -1,0 +1,3 @@
+﻿  AiAS.cpp
+C:\Users\tyver\source\repos\AiAS\AiAS\AiAS.cpp(185,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AiAS.vcxproj -> C:\Users\tyver\source\repos\AiAS\x64\Debug\AiAS.exe
