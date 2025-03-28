@@ -21,6 +21,12 @@
     <ClCompile Include="MatrixGenerator.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Algorithms.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Tester.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="mat3.txt" />
@@ -28,6 +34,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MatrixGenerator.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Tester.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
